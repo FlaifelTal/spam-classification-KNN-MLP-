@@ -1,4 +1,3 @@
-# Tala FLaifel 1201107  - Rawan Sous 1200129
 import numpy as np
 import csv
 import sys
